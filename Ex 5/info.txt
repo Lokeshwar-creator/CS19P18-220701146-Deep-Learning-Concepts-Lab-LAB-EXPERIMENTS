@@ -1,0 +1,12 @@
+BUILD A RECURRENT NEURAL NETWORK (RNN) USING
+KERAS/TENSORFLOW
+
+Aim: To build a recurrent neural network with Keras/TensorFlow.
+
+Procedure: 
+1. Download and load the dataset. '
+2. Perform analysis and preprocessing of the dataset. 
+3. Build a simple neural network model using Keras/TensorFlow. 
+4. Compile and fit the model. 
+5. Perform prediction with the test dataset. 
+6. Calculate performance metrics. 
