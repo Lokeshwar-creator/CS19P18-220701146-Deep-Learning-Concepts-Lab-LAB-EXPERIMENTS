@@ -1,0 +1,9 @@
+EX NO: 1 CREATE A NEURAL NETWORK TO RECOGNIZE HANDWRITTEN
+DIGITS USING MNIST DATASET
+
+Aim: To build a handwritten digit’s recognition with MNIST dataset.
+Procedure: 1. Download and load the MNIST dataset. 
+2. Perform analysis and preprocessing of the dataset. 
+3. Build a simple neural network model using Keras/TensorFlow. 
+4. Compile and fit the model. 
+5. Perform prediction with the test dataset. 6. Calculate performance metrics.
