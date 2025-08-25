@@ -1,0 +1,9 @@
+TRANSFER LEARNING WITH CNN AND VISUALIZATION
+Aim: To build a convolutional neural network with transfer learning and perform visualization
+
+Procedure: 1. Download and load the dataset. 
+2. Perform analysis and preprocessing of the dataset. 
+3. Build a simple neural network model using Keras/TensorFlow. 
+4. Compile and fit the model. 
+5. Perform prediction with the test dataset. 
+6. Calculate performance metrics.
