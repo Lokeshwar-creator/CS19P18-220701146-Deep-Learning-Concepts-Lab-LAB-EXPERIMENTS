@@ -1,0 +1,15 @@
+BUILD A CONVOLUTIONAL NEURAL NETWORK
+USING KERAS/TENSORFLOW 
+
+Aim: To implement a Convolutional Neural Network (CNN) using Keras/TensorFlow to recognize and classify handwritten digits from the MNIST dataset with high accuracy. 
+
+Procedure:
+1. Import required libraries (TensorFlow/Keras, NumPy, etc.).
+2.Load the MNIST dataset from Keras. 
+3.Normalize and reshape the image data.
+4.Convert labels to one-hot encoded vectors. 
+5.Build a CNN model with Conv2D, MaxPooling, Flatten, and Dense layers. 
+6.Compile the model using categorical crossentropy and Adam optimizer. 
+7.Train the model on training data. 
+8.Evaluate the model on test data. 
+9.Display accuracy and predictions.
