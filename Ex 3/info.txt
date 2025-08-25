@@ -1,0 +1,18 @@
+EX NO: 3 IMAGE CLASSIFICATION ON CIFAR-10 DATASET USING CNN
+
+Aim: To build a Convolutional Neural Network (CNN) model for classifying images from the
+
+CIFAR-10 dataset into one of the ten categories such as airplanes, cars, birds, cats, etc. 
+Procedure:
+1.  Download and load the CIFAR-10 dataset using Keras/TensorFlow. 
+2.  Visualize and analyze sample images from the dataset. 
+3, Preprocess the data:
+ Normalize the pixel values (divide by 255)
+ Convert class labels to one-hot encoded format
+4.  Build a CNN model using Keras/TensorFlow:
+ Include convolutional, pooling, flatten, and dense layers.
+5.  Compile the model with suitable loss function and optimizer. 
+6.  Train the model using training data and validate using test data. 
+7.  Evaluate the model using accuracy and loss on test dataset. 
+8.  Perform predictions on new/unseen CIFAR-10 images. 
+9.Visualize prediction results with sample images and predicted labels
