@@ -1,3 +1,6 @@
+#EX 6 SENTIMENT ANALYSIS FOR TEXT USING RNN#
+
+
 import numpy as np
 from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing.sequence import pad_sequences
